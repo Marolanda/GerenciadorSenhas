@@ -39,8 +39,8 @@ A secure, command-line Password Manager written in Java. It allows you to safely
 Clone the repository:
 
 ```sh
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/Marolanda/GerenciadorSenhas.git
+cd GerenciadorSenhas 
 ```
 
 ## Usage
@@ -80,12 +80,6 @@ Passwords/
 ├── .gitignore
 └── README.md
 ```
-
-## Security Notes
-
-- All credentials are encrypted at rest using AES.
-- The master password is never stored; only a hash is kept.
-- Passwords are never logged or displayed in plain text.
 
 ## Contributing
 
