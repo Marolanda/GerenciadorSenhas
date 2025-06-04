@@ -1,0 +1,17 @@
+# Arquivos de compilação Java
+*.class
+bin/
+out/
+
+# Arquivos de log
+*.log
+
+# Banco de dados SQLite
+*.db
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
